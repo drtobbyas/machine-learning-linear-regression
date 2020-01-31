@@ -1,11 +1,13 @@
 # Machine Learning - Linear Regression App
 
-# yarn install 
-  To install
+## install 
+ yarn install
 
-# yard global add parcel-bundler 
-
-# parcel index.html
-  To build. Go to http://localhost:1234 to view
+## Add parcel
+  yard global add parcel-bundler 
+## Build
+  To build 
+   parcel index.html
+   Go to http://localhost:1234 to view
 
 ## Thanks
